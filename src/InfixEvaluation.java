@@ -1,5 +1,3 @@
-package ExpressionEvaluation;
-
 import java.util.Stack;
 
 public class InfixEvaluation {
